@@ -1,0 +1,1 @@
+C:\MAUI\Travel\Travels\Travels.csproj;x64
